@@ -268,7 +268,6 @@ decoration:whiteBoxDecoration() ,
     crossAxisAlignment: CrossAxisAlignment.start,
     children: [
       Row(
-        crossAxisAlignment: CrossAxisAlignment.end,
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
 
@@ -346,7 +345,6 @@ decoration:whiteBoxDecoration() ,
     crossAxisAlignment: CrossAxisAlignment.start,
     children: [
       Row(
-        crossAxisAlignment: CrossAxisAlignment.end,
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
 
